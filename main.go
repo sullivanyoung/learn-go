@@ -1,11 +1,8 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
+
 
 func main() {
-	name := "Sully"
-
-	fmt.Println(name)
+	fmt.Println("testing :)")
 }
