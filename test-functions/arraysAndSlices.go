@@ -2,6 +2,7 @@ package arraysAndSlices
 
 import "fmt"
 
+// Arrays and Slices function
 func ArraysAndSlices() {
 	// Arrays (fixed length)
 	var ages [3]int = [3]int{20, 25, 30}

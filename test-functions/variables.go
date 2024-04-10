@@ -4,7 +4,7 @@ import "fmt"
 
 // Test Variables function
 func TestVariables() string {
-    // strings
+    // Strings
     var nameOne string = "Sullivan"
     var nameTwo = "Young"
     var nameThree string
@@ -19,14 +19,14 @@ func TestVariables() string {
     nameFour := "Sull"
     fmt.Println(nameFour)
 
-    // ints
+    // Ints
     var ageOne int = 25
     var ageTwo = 30
     ageThree := 35
 
     fmt.Println(ageOne, ageTwo, ageThree)
 
-    // bits & memory
+    // Bits & Memory
     // https://pkg.go.dev/builtin#:~:text=floating%2Dpoint%20numbers.-,type%20int%20%C2%B6,-type%20int%20int
     var numOne int8 = 25
     var numTwo int8 = -128
@@ -35,8 +35,8 @@ func TestVariables() string {
 
     fmt.Println(numOne, numTwo, numThree)
 
-    // floats
-    // have to specify bit size (32 / 64) with float
+    // Floats
+    // Have to specify bit size (32 / 64) with float
     var scoreOne float32 = -1.5
     var scoreTwo float64 = -5677777.435645667
     scoreThree := 1.5
