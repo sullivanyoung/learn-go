@@ -1,2 +1,3 @@
 # learn-go
-repo dedicated to helping me learn go (golang)
+
+Repo dedicated to help me learn Go (golang)
